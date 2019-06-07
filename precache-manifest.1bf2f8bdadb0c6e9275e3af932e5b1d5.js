@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "0549a3c0d51c875bf252",
+    "revision": "c67564da0d6180949b85",
     "url": "/webcomic-gh-pages/static/css/main.9ba85fac.chunk.css"
   },
   {
-    "revision": "0549a3c0d51c875bf252",
-    "url": "/webcomic-gh-pages/static/js/main.424e2301.chunk.js"
+    "revision": "c67564da0d6180949b85",
+    "url": "/webcomic-gh-pages/static/js/main.7674f81e.chunk.js"
   },
   {
     "revision": "2ee1f6dd13032153667d",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/webcomic-gh-pages/static/js/2.b1c01b79.chunk.js"
   },
   {
-    "revision": "fc435df0fdc192c8013967f0c70eb10d",
+    "revision": "d945a299872ddc5d69659bf7a8d6b89b",
     "url": "/webcomic-gh-pages/index.html"
   }
 ];
