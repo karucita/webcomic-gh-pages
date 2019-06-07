@@ -37,9 +37,9 @@ class App extends Component {
     if (currentPage === 3) {
       return (
         <Col>
-          <button style={ {background: 'transparent', border: 0} } href="https://soundcloud.com/totallystraight/sets/marvellous-travelling-band">
+          <a style={ {background: 'transparent', border: 0} } href="https://soundcloud.com/totallystraight/sets/marvellous-travelling-band">
             <img style={ {height: '100%', width: '100%', objectFit: 'contain'}} src={"https://i.ibb.co/yF4Jr7h/lastbutton.png"} alt='pepa' />
-          </button>
+          </a>
         </Col>
       )
     }
