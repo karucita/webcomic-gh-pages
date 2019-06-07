@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/webcomic-gh-pages/static/js/2.b1c01b79.chunk.js"
   },
   {
-    "revision": "01e9c9f1c6b5a7109ac3a77746772554",
+    "revision": "fc435df0fdc192c8013967f0c70eb10d",
     "url": "/webcomic-gh-pages/index.html"
   }
 ];
