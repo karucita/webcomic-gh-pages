@@ -6,10 +6,6 @@ import Col from 'react-bootstrap/Col';
 
 import { comics }  from '../comics/1.js';
 
-//https://i.ibb.co/yF4Jr7h/lastbutton.png
-//https://i.ibb.co/tp4CkJ4/nextarrowpng.png
-//https://i.ibb.co/ZVgZYYz/prevarrow.png
-
 class App extends Component {
   state = {
     currentPage: 1
@@ -24,10 +20,12 @@ class App extends Component {
   }
 
   goToPage(page) {
+    window.scrollTo(0, 0)
     this.setState({ currentPage: page })
   }
 
   goToPrevPage() {
+    window.scrollTo(0, 0)
     const { currentPage } = this.state;
     if (currentPage !== 1) {
       this.goToPage(currentPage-1);
