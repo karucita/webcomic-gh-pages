@@ -2,7 +2,7 @@
   "name": "webcomic-zseba",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://zseba.github.io/",
+  "homepage": "https://zseba.github.io/webcomic-gh-pages/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
