@@ -3,9 +3,9 @@ export const comics = {
     image: "https://66.media.tumblr.com/faf69b0131fea237e67711d09d0d12a2/tumblr_ppog5xckoW1qk80y3o1_1280.png"
   },
   2: {
-    image: "https://i.ibb.co/Kx9Fhtw/p2colors.png "
+    image: "https://66.media.tumblr.com/ae7b23fe51548c9cf96064b4608a610f/tumblr_pst7gaJDdE1qk80y3o1_1280.png "
   },
   3: {
-    image: "https://i.ibb.co/yQNYT72/p3colors.png"
+    image: "https://66.media.tumblr.com/ae7b23fe51548c9cf96064b4608a610f/tumblr_pst7gaJDdE1qk80y3o1_1280.png"
   }
  }
