@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/webcomic-gh-pages/precache-manifest.dd93759a18b40a2a8fa2ac32cbcdbc00.js"
+  "/webcomic-gh-pages/precache-manifest.a7a26c4ccecb4619348df61d8fb5a490.js"
 );
 
 workbox.clientsClaim();
@@ -29,6 +29,6 @@ workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
 workbox.routing.registerNavigationRoute("/webcomic-gh-pages/index.html", {
-  
+
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
